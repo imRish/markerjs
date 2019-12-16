@@ -8,7 +8,7 @@ commoncfg[0].plugins.push(
     terser(),
     copy({
         files: ['LICENSE', 'README.md'],
-        dest: 'dist'
+        dest: '.'
     }),
     );
 // workaround for terser plugin bug with multiple outputs
