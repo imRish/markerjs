@@ -1,0 +1,23 @@
+{
+  "name": "markerjs-fork",
+  "version": "1.2.4",
+  "description": "Annotate and mark images",
+  "main": "dist/markerjs.umd.js",
+  "module": "dist/markerjs.esm.js",
+  "types": "dist/typings/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imRish/markerjs"
+  },
+  "keywords": [
+    "annotate",
+    "mark",
+    "highlight",
+    "image",
+    "photo",
+    "comment"
+  ],
+  "author": "Rishabh Pandey",
+  "license": "Linkware (see LICENSE)"
+}
